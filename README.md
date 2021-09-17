@@ -1,8 +1,8 @@
 ## Olá! Eu sou Mayron Alves :D
  <div>
   <a href="https://github.com/iammayron">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=iammayron&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammayron&layout=compact&langs_count=7&theme=default"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=iammayron&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammayron&layout=compact&langs_count=7&theme=default"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mayron Alves - Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
