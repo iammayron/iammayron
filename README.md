@@ -17,7 +17,7 @@
   <img align="center" alt="Mayron Alves - React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Mayron Alves - JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Mayron Alves - TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif" />
+  <img align="right" alt="Mayron Alves" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" />
 </div>
   
   ##
