@@ -17,7 +17,7 @@
   <img align="center" alt="Mayron Alves - React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Mayron Alves - JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Mayron Alves - TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="right" alt="Mayron Alves" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" />
+  <img align="right" alt="Mayron Alves" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" style="width: 170px; margin-top: -15px;" />
 </div>
   
   ##
